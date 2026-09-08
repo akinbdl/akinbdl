@@ -3,39 +3,37 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/akinbdl">
-    <img src="https://img.shields.io/badge/GitHub-akinbdl-0a0a0a?style=for-the-badge&logo=github&logoColor=4FD1C5" alt="GitHub" />
-  </a>
-  <a href="https://github.com/akinbdl/atlas-ui">
-    <img src="https://img.shields.io/badge/atlas--ui-45%2B%20components-0a0a0a?style=for-the-badge&logo=react&logoColor=4FD1C5" alt="atlas-ui" />
-  </a>
+  <strong>Akın Talha Bedel</strong><br />
+  Software Developer · Istanbul<br />
+  <a href="https://www.linkedin.com/in/ak%C4%B1n-talha-bedel-969141207">LinkedIn</a>
 </p>
 
 ---
 
-### merhaba
+### hi
 
-Ben **akinbdl**. Arayüz ve design system tarafında çalışıyorum — React ve TypeScript ile tekrar kullanılabilir, ölçeklenebilir bileşenler üretiyorum.
+I'm **Akın Talha Bedel**. I build web products and design systems — mostly React, TypeScript, and .NET — with a bias toward clean, reusable UI.
 
-Şu an [**atlas-ui**](https://github.com/akinbdl/atlas-ui) üzerindeyim: Tailwind CSS v4 ile yazılmış, 45+ bileşenli bir React tasarım sistemi.
+Right now I'm working on [**atlas-ui**](https://github.com/akinbdl/atlas-ui): a React design system with Tailwind CSS v4 and 45+ components.
 
 ---
 
-### yığın
+### stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,nodejs,git,github,vscode,figma" alt="React, TypeScript, Tailwind, HTML, CSS, Node.js, Git, GitHub, VS Code, Figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,dotnet,cs,jquery,git,github,vscode,figma" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Node.js, .NET, C#, jQuery, Git, GitHub, VS Code, Figma" />
 </p>
 
-| alan | araçlar |
+| area | tools |
 | --- | --- |
-| Arayüz | React, TypeScript, Tailwind CSS v4 |
-| Sistem | Design tokens, component APIs, 45+ UI primitive |
-| İş akışı | Git, GitHub, VS Code |
+| Frontend | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS v4 |
+| Backend | Node.js, ASP.NET, .NET Core, Microsoft SQL, Oracle / PL SQL |
+| Systems | Design tokens, component APIs, 45+ UI primitives |
+| Workflow | Git, GitHub, VS Code |
 
 ---
 
-### öne çıkan
+### featured
 
 **[atlas-ui](https://github.com/akinbdl/atlas-ui)** — React design system with Tailwind CSS v4 — 45+ components
 
@@ -50,10 +48,10 @@ Ben **akinbdl**. Arayüz ve design system tarafında çalışıyorum — React v
 ### github
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akinbdl&show_icons=true&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=4FD1C5&icon_color=4FD1C5&text_color=EDEDED" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinbdl&layout=compact&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=4FD1C5&text_color=EDEDED" alt="Diller" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akinbdl&show_icons=true&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=4FD1C5&icon_color=4FD1C5&text_color=EDEDED" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinbdl&layout=compact&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=4FD1C5&text_color=EDEDED" alt="Top languages" />
 </p>
 
 <p align="center">
-  <sub><a href="https://github.com/akinbdl">github.com/akinbdl</a></sub>
+  <sub><a href="https://github.com/akinbdl">github.com/akinbdl</a> · <a href="https://www.linkedin.com/in/ak%C4%B1n-talha-bedel-969141207">LinkedIn</a></sub>
 </p>

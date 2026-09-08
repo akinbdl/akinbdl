@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="akinbdl — design systems · react · typescript" width="100%" />
+  <img src="game.gif" alt="GitHub contribution space shooter" width="100%" />
 </p>
 
 <p align="center">
@@ -9,10 +9,6 @@
   <a href="https://github.com/akinbdl/atlas-ui">
     <img src="https://img.shields.io/badge/atlas--ui-45%2B%20components-0a0a0a?style=for-the-badge&logo=react&logoColor=4FD1C5" alt="atlas-ui" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=620&lines=design+systems;React+%2B+TypeScript;Tailwind+CSS+v4;45%2B+reusable+components" alt="akinbdl" />
 </p>
 
 ---
